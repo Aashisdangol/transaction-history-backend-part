@@ -1,4 +1,6 @@
 // Create express app
+import express from 'express'
+
 //Run Server
 //COnnect with DB
 //Create USer route
